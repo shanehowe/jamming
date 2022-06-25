@@ -15,4 +15,4 @@
 
 # How it works:
 
-* This web application queries the https://Spotify.com API 
+* This web application queries the www.Spotify.com API 
