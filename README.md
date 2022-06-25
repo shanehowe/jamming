@@ -10,7 +10,9 @@
 # Built with
 
 * React.js
-* HTML (jsx)
 * CSS
-* Queries the Spotify api
-* Built for educational purposes only!
+* HTML
+
+# How it works:
+
+* This web application queries the https://Spotify.com API 
