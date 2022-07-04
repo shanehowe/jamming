@@ -1,7 +1,7 @@
 import clientID from "./api";
 
 var accessToken;
-let redirectURI = "https://comforting-faun-2a30d6.netlify.app/callback/";
+let redirectURI = "http://localhost:3000/";
 
 const Spotify = {
     getAccessToken() {
