@@ -1,7 +1,7 @@
 import clientID from "./api";
 
 var accessToken;
-let redirectURI = "https://shanehowe.github.io/jamming";
+let redirectURI = "http://localhost:3000/";
 
 const Spotify = {
     getAccessToken() {
