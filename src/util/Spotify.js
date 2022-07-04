@@ -1,7 +1,7 @@
 import clientID from "./api";
 
 var accessToken;
-let redirectURI = "https://sweet-dieffenbachia-867a9f.netlify.app/";
+let redirectURI = "https://shanehowe.github.io/";
 
 const Spotify = {
     getAccessToken() {
