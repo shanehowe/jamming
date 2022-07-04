@@ -1,13 +1,13 @@
 import clientID from "./api";
 
 var accessToken;
-let redirectURI = "https://comforting-faun-2a30d6.netlify.app/";
+let redirectURI = "https://comforting-faun-2a30d6.netlify.app/callback/";
 
 const Spotify = {
     getAccessToken() {
         if (accessToken) {
             return accessToken
-            
+
         } 
 
         const accessTokenMatch = window.location.href.match(/access_token=([^&]*)/);
